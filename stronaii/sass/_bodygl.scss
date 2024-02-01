@@ -1,0 +1,28 @@
+.firma__content {
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $blu;
+
+    div {
+        margin: 10px;
+        height: $hei;
+        text-align: center;
+        display: inline;
+    }
+}
+
+.ofirmie__content {
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: $bgcol;
+    }
+    p{
+        display: inline;
+        text-align: center;
+        margin: 10px;  
+    }

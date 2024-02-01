@@ -1,0 +1,14 @@
+.header__content {
+    width: 100vw;
+    height: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $gr;
+
+    h2 {
+        display: inline;
+        text-align: center;
+        margin: 100px;
+    }
+}
