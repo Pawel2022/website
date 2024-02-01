@@ -1,0 +1,22 @@
+.gal {
+	width: 100vw;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.gal__content {
+	margin: 0.5%;
+	width: 500px;
+	height: auto;
+	img {
+		width: 150%;
+		height: 700px;
+	}
+	h2 {
+		text-align: center;
+		margin: 10px;
+	}
+}
